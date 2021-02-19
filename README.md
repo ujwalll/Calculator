@@ -1,6 +1,7 @@
 # calculator
 
 A new Flutter project.
+Tested on Redmi note 7 pro.
 
 ## Getting Started
 
